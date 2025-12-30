@@ -1,0 +1,24 @@
+pandas>=2.0.0
+```
+
+---
+
+# Özet: Tüm Dosyalar Hazır
+
+## Paylaşacağın Klasör Yapısı:
+```
+file_automation_project/
+├── config/
+│   ├── __init__.py
+│   └── settings.py
+├── services/
+│   ├── __init__.py
+│   ├── file_organizer.py
+│   └── data_cleaner.py
+├── utils/
+│   ├── __init__.py
+│   ├── logger.py
+│   └── file_utils.py
+├── main.py
+├── README.md              ← GitHub için
+└── requirements.txt       ← Kütüphane listesi

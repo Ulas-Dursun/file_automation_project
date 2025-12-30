@@ -1,0 +1,26 @@
+employee_id,name,age,salary,department,city,years_experience
+16,Ibrahim Erdogan,29.0,85145.5,hr,Antalya,11.0
+21,Ali Sahin,39.0,71285.0,it,Izmir,11.0
+11,Burak Ozkan,23.0,104042.0,HR,Izmir,2.0
+9,Elif Kilic,58.0,41504.0,HR,Antalya,11.0
+25,Ali Sahin,39.0,96057.0,HR,Antalya,4.0
+17,Fatma Celik,27.0,112132.0,HR,Antalya,11.0
+6,Burak Ozkan,39.0,81347.0,HR,Antalya,12.0
+19,Ali Sahin,39.0,85145.5,HR,Istanbul,5.0
+1,Ibrahim Erdogan,39.0,72098.0,hr,Antalya,0.0
+23,Ibrahim Erdogan,58.0,85145.5,IT,Istanbul,11.0
+13,Fatma Celik,48.0,88944.0,Finance,Ankara,11.0
+3,Mehmet Kaya,45.0,119131.0,hr,Antalya,11.0
+20,Mehmet Kaya,38.0,114668.0,FINANCE,Antalya,11.0
+15,Emre Yildiz,59.0,101993.0,IT,Antalya,11.0
+18,Elif Kilic,48.0,61579.0,MARKETING,Bursa,6.0
+24,Ibrahim Erdogan,39.0,72914.0,HR,Antalya,20.0
+4,Hulya Polat,39.0,85145.5,SALES,Ankara,21.0
+8,Ayse Demir,28.0,54371.0,HR,Antalya,19.0
+22,Hasan Aslan,39.0,85145.5,HR,Izmir,25.0
+7,Emre Yildiz,52.0,85145.5,HR,Antalya,7.0
+12,Mehmet Kaya,27.0,109822.0,IT,Antalya,22.0
+10,Ahmet Yilmaz,39.0,63416.0,HR,Izmir,11.0
+2,Hasan Aslan,39.0,111426.0,marketing,Istanbul,3.0
+5,Ali Sahin,27.0,62431.0,IT,Antalya,24.0
+14,Mehmet Kaya,26.0,85145.5,sales,Antalya,11.0
