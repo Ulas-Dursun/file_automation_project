@@ -36,7 +36,7 @@ file_automation_project/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/file_automation_project.git
+git clone https://github.com/ulas-dursun/file_automation_project.git
 cd file_automation_project
 ```
 
